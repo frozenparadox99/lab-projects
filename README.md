@@ -20,3 +20,14 @@ Built in collaboration with Akul Rattan, ECE : https://akulcv.imfast.io/
 ![img](obstacle-avoider-arduino/real-time-testing.gif)
 
 <a href="https://imgur.com/WQjjrxO"><img src="https://i.imgur.com/WQjjrxO.jpg" title="source: imgur.com" /></a>
+
+---
+
+# 3) Decimation-in-Time Fast Fourier Transform in Verilog
+
+<a href="https://imgur.com/mfdqu5Y"><img src="https://i.imgur.com/mfdqu5Y.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/uzIfbEV"><img src="https://i.imgur.com/uzIfbEV.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/iVM2jFH"><img src="https://i.imgur.com/iVM2jFH.png" title="source: imgur.com" /></a>
+
